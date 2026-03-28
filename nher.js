@@ -6,3 +6,4 @@ var f=a*b
 console.log(c);
 console.log(d);
 console.log(f);
+console.log(a);
